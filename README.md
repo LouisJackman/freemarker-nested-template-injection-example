@@ -10,3 +10,6 @@ nesting inner languages. The quintessential example of this is `<script>` within
 
 This repository uses FreeMarker and JS injections for its example, and uses
 [JSFuck](http://www.jsfuck.com) to obfuscate JS payloads in one of the examples.
+
+The code in this repository is automatically formatted with
+[google-java-format](https://github.com/google/google-java-format).
