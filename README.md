@@ -13,3 +13,10 @@ This repository uses FreeMarker and JS injections for its example, and uses
 
 The code in this repository is automatically formatted with
 [google-java-format](https://github.com/google/google-java-format).
+
+This repository is hosted [on
+GitLab.com](https://gitlab.com/louis.jackman/freemarker-nested-template-injection-example).
+If you're seeing this on GitHub, you're on the official GitHub mirror. [Go to
+GitLab](https://gitlab.com/louis.jackman/freemarker-nested-template-injection-example)
+to contribute.
+
