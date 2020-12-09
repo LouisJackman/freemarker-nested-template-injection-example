@@ -20,3 +20,12 @@ If you're seeing this on GitHub, you're on the official GitHub mirror. [Go to
 GitLab](https://gitlab.com/louis.jackman/freemarker-nested-template-injection-example)
 to contribute.
 
+This repository is currently hosted [on
+GitLab.com](https://gitlab.com/louis.jackman/freemarker-nested-template-injection-example).
+Official mirrors exist on
+[SourceHut](https://git.sr.ht/~louisjackman/freemarker-nested-template-injection-example)
+and
+[GitHub](https://github.com/LouisJackman/freemarker-nested-template-injection-example).
+At the moment, GitLab is still the official hub for contributions such as PRs
+and issues.
+
